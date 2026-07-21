@@ -143,6 +143,11 @@ Implemented a Star Schema with fact and dimension tables.
 
 ---
 
+## Business Insights
+- Identified top-performing product categories based on revenue.
+- Analyzed customer purchasing trends across regions.
+- Evaluated return rates to identify improvement opportunities.
+
 ## Author
 
 **Sanket Shetti**
